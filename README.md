@@ -5,3 +5,4 @@ Subscriber 노드: 영상 토픽을 구독하여 gstreamer를 이용하여 PC로
 
 subscriber 노드에 영상원본을 그레이영상, 이진영상으로 각각 변환하고 3가지 영상을 PC로 전송하는 패키지
  
+결과영상 https://www.youtube.com/watch?v=MLsKPujcWWU&ab_channel=swp
